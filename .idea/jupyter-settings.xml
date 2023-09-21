@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="/private/var/folders/gd/kx2vkxt57cb23n4lk1gk1zfr0000gn/T/MicrosoftEdgeDownloads/20054ed8-875a-4e5d-812e-9ae844dd1b93/Recitation0c/.idea/Recitation0c.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$USER_HOME$/miniforge3/envs/tf_gpu/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

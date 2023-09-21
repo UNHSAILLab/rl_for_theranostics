@@ -13,13 +13,13 @@ from Therapy import Therapy
 
 # List of injection profiles to be tested
 # Uncomment the line below if you want to test multiple injection profiles
-# injection_profiles = ["constantInjection60", "constantInjection120", "constantInjection180", ...]
+# injection_profiles = ["constantInjection60", "constantInjection120", "constantInjection180",bolusInjection ...]
 # For this example, only 'bolusInjection' is being tested
 
 #A "bolus injection" is a method of drug administration in which a single, concentrated dose of a medication is given intravenously,
 # usually all at once over a short period. This is in contrast to other methods like continuous infusion,
 # where the drug is administered over an extended period.
-injection_profiles = ["bolusInjection"]
+injection_profiles = ["constantInjection60"]
 
 # Loop through each injection profile
 for index, profile in enumerate(injection_profiles):
