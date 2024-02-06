@@ -1,4 +1,4 @@
-folderName = '/Users/tbin/Library/CloudStorage/GoogleDrive-contact@bineshkumar.me/My Drive/Colab Notebooks/UBC_PSMA_Model_Simulator_Data/SimDataCSVs';
+folderName = '/Users/tbin/Library/CloudStorage/GoogleDrive-contact@bineshkumar.me/My Drive/Colab Notebooks/UBC_PSMA_Model_Simulator_Data/W2SimDataCSVs';
 if ~exist(folderName, 'dir')
     mkdir(folderName);
 end
