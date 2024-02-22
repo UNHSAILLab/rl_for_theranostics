@@ -3,6 +3,10 @@
 
 ## Overview of Peptide Receptor Radionuclide Therapy (PRRT)
 
+/**
+ * Peptide Receptor Radionuclide Therapy (PRRT) is a molecular therapy used for treating neuroendocrine tumors.
+ * It involves targeting tumor cells with peptides that bind to somatostatin receptors, which are often overexpressed in these tumors.
+ */
 Peptide Receptor Radionuclide Therapy (PRRT) is a molecular therapy used for treating neuroendocrine tumors. It involves targeting tumor cells with peptides that bind to somatostatin receptors, which are often overexpressed in these tumors.
 
 ## Radiobiological Concepts
@@ -33,7 +37,8 @@ BED = D (1 + rac{d}{lpha/eta})
 For multiple lesions:
 
 ```math
-oBED = rac{-1}{lpha} \cdot \ln\left( rac{\sum_{i=1}^{N} m_i \cdot e^{-lpha \cdot BED_i}}{\sum_{i=1}^{N} m_i} ight)
+oBED = rac{-1}{lpha} \cdot \ln\left( rac{\sum_{i=1}^{N} m_i \cdot e^{-lpha \cdot BED_i}}{\sum_{i=1}^{N} m_i} 
+ight)
 ```
 
 ### Tumor Control Probability (TCP)
