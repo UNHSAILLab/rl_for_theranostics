@@ -28,17 +28,4 @@ This repository contains the code and Jupyter notebooks for our project on data-
 For more comprehensive insights into our project's scope and methodologies, please visit our detailed portfolio page at the SAIL Lab:
 [Data-Driven Modeling and Decision Support for Personalized Precision Oncology](https://sail-lab.org/portfolio/data-driven-modeling-and-decision-support-for-personalized-precision-oncology/)
 
-## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Contributing
-We welcome contributions from the community. Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Acknowledgments
-- Team members
-- Collaborators
-- Funding agencies
-
----
-
 We hope this repository will aid researchers and practitioners in the field of oncology to develop more precise and personalized treatment strategies.
