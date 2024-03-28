@@ -3,18 +3,18 @@
   <component name="JupyterPersistentConnectionParameters">
     <option name="moduleParameters">
       <map>
+        <entry key="$USER_HOME$/PycharmProjects/DesignOfExperiments/.idea/DesignOfExperiments.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="/private/var/folders/gd/kx2vkxt57cb23n4lk1gk1zfr0000gn/T/MicrosoftEdgeDownloads/20054ed8-875a-4e5d-812e-9ae844dd1b93/Recitation0c/.idea/Recitation0c.iml">
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
               <option name="sdkHomePath" value="$USER_HOME$/miniforge3/envs/tf_gpu/bin/python" />
-            </JupyterConnectionParameters>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/PycharmProjects/DesignOfExperiments/.idea/DesignOfExperiments.iml">
-          <value>
-            <JupyterConnectionParameters>
-              <option name="managed" value="true" />
             </JupyterConnectionParameters>
           </value>
         </entry>
